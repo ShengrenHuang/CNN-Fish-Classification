@@ -1,6 +1,6 @@
 # CNN-Fish-Classification
 
-![image](https://user-images.githubusercontent.com/108604868/188543147-477ca731-1d2b-4c6e-bf41-5c4e2f805897.png)
+![image](https://user-images.githubusercontent.com/108604868/188657533-4e6e30f4-a119-4776-aa95-311f0b2fdfd2.png)
 
 
 
