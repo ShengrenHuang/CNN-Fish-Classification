@@ -12,7 +12,7 @@ learning_rate = 0.001
 # Training Result
 
 
-Test dataset accuracy  
+## Test dataset accuracy  
 Accuracy of the network: 79.22222222222223 %  
 Accuracy of Black Sea Sprat: 78.5 %  
 Accuracy of Gilt-Head Bream: 67.5 %  
@@ -24,7 +24,7 @@ Accuracy of Shrimp: 100.0 %
 Accuracy of Striped Red Mullet: 58.0 %  
 Accuracy of Trout: 85.5 %     
    
-Validate dataset accuracy  
+## Validate dataset accuracy  
 Accuracy of the network: 82.66666666666667 %  
 Accuracy of Black Sea Sprat: 85.0 %  
 Accuracy of Gilt-Head Bream: 75.5 %  
