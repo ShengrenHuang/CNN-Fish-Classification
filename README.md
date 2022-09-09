@@ -22,7 +22,8 @@ Accuracy of Red Sea Bream: 91.0 %
 Accuracy of Sea Bass: 95.0 %  
 Accuracy of Shrimp: 100.0 %  
 Accuracy of Striped Red Mullet: 58.0 %  
-Accuracy of Trout: 85.5 %  
+Accuracy of Trout: 85.5 %     
+   
 Validate dataset accuracy  
 Accuracy of the network: 82.66666666666667 %  
 Accuracy of Black Sea Sprat: 85.0 %  
