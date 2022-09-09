@@ -41,8 +41,8 @@ The image of the red mullet is downloaded from [1].
 ![image](https://user-images.githubusercontent.com/108604868/188657533-4e6e30f4-a119-4776-aa95-311f0b2fdfd2.png)
 
 # References
-[1] [Red Mullet image](https://pixabay.com/photos/fish-red-mullet-fish-market-727222/)  
-[2] Saad ALBAWI , Tareq Abed MOHAMMED, and Saad AL-ZAWI, Understanding of a Convolutional Neural Network, 2017  
+[1] [Red Mullet image](https://pixabay.com/photos/fish-red-mullet-fish-market-727222/).  
+[2] Saad ALBAWI , Tareq Abed MOHAMMED, and Saad AL-ZAWI, Understanding of a Convolutional Neural Network, 2017.  
 [3] [A Large Scale Fish Dataset](https://www.kaggle.com/datasets/crowww/a-large-scale-fish-dataset).  
 [4] [Deep Learning With PyTorch - Full Course](https://www.youtube.com/watch?v=c36lUUr864M&ab_channel=PythonEngineer).  
 [5] [LeanManager/PyTorch_Image_Classifier](https://github.com/LeanManager/PyTorch_Image_Classifier).
