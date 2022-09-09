@@ -10,7 +10,7 @@ learning_rate = 0.001
 
 
 # Training Result
-
+Average Run time: 55 mins (CUDA enabled)
 
 ## Test dataset accuracy  
 Accuracy of the network: 79.22222222222223 %  
