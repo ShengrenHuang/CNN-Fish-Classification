@@ -9,7 +9,7 @@ learning_rate = 0.001
 
 # Training Result
 
-![image](https://user-images.githubusercontent.com/108604868/188657533-4e6e30f4-a119-4776-aa95-311f0b2fdfd2.png)
+
 
 
 Test dataset accuracy  
@@ -35,7 +35,9 @@ Accuracy of Shrimp: 100.0 %
 Accuracy of Striped Red Mullet: 87.0 %  
 Accuracy of Trout: 48.5 %  
 
+# Inference/Predict Result 
 
+![image](https://user-images.githubusercontent.com/108604868/188657533-4e6e30f4-a119-4776-aa95-311f0b2fdfd2.png)
 
 # References
 [1] https://pixabay.com/photos/fish-red-mullet-fish-market-727222/  
