@@ -35,3 +35,5 @@ Accuracy of Trout: 48.5 %
 # References
 [1] https://pixabay.com/photos/fish-red-mullet-fish-market-727222/  
 [2] Understanding of a Convolutional Neural Network
+[3] A Large Scale Fish Dataset:
+https://www.kaggle.com/datasets/crowww/a-large-scale-fish-dataset .
