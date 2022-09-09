@@ -1,1 +1,1 @@
-The dataset containing 10 classes of fishes can be obtained via [link](https://www.kaggle.com/datasets/crowww/a-large-scale-fish-dataset)
+The dataset containing nine classes of fish can be obtained via the [link](https://www.kaggle.com/datasets/crowww/a-large-scale-fish-dataset)
