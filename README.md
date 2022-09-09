@@ -7,7 +7,7 @@ num_epochs = 30
 batch_size = 1  
 learning_rate = 0.001  
 
-# Result
+# Training Result
 
 ![image](https://user-images.githubusercontent.com/108604868/188657533-4e6e30f4-a119-4776-aa95-311f0b2fdfd2.png)
 
