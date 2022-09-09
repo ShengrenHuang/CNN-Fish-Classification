@@ -2,6 +2,8 @@
 
 在本練習中，我們利用捲積神經網路 (CNN) 來實作一個魚種分類器，分為10種魚種Black Sea Sprat, Gilt-Head Bream, Hourse Mackerel, Red Mullet, Red Sea Bream, Sea Bass, Shrimp, Striped Red Mullet, and Trout，所利用的神經網路函式庫為PyTorch，The codes are divided two parts, training and inference part. CNN 網路架構為一層convolution, 一層pooling 一層 convolution 一層 max pooling ，然後flatten之後接三層full connected 的 神經網路with ReLU activation, 在 error 上利用 crossentropyloss 來做評估。我們電腦設備 CPU: AMD Ryzen™ 5 3600X, GPU: NVIDIA GeForce RTX 2060。
 
+In this practice, we aim to employ the convolution neural network to implement a Fish classification. The classes of the specific fishes lie in 10 kinds. 1) Black Sea Sprat. 2) Gilt-Head Bream. 3) Hourse Mackerel. 4) Red Mullet. 5) Red Sea Bream. 6) Sea Bass. 7) Shrimp. 8) Striped Red Mullet. 10) Trout. 
+
 # Hyper-parameters  
 num_epochs = 30  
 batch_size = 1  
