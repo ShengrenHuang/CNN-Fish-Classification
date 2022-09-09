@@ -37,7 +37,7 @@ Accuracy of Striped Red Mullet: 87.0 %
 Accuracy of Trout: 48.5 %  
 
 # Inference/Predict Result 
-The image of red mullet is downloded from [1].
+The image of the red mullet is downloaded from [1].
 ![image](https://user-images.githubusercontent.com/108604868/188657533-4e6e30f4-a119-4776-aa95-311f0b2fdfd2.png)
 
 # References
