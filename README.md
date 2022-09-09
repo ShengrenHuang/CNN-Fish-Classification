@@ -1,6 +1,6 @@
 # CNN-Fish-Classification
 
-在本練習中，我們利用捲積神經網路 (CNN) 來時做一個魚種分類器，分為10種魚種Black Sea Sprat, Gilt-Head Bream, Hourse Mackerel, Red Mullet, Red Sea Bream, Sea Bass, Shrimp, Striped Red Mullet, and Trout
+在本練習中，我們利用捲積神經網路 (CNN) 來時做一個魚種分類器，分為10種魚種Black Sea Sprat, Gilt-Head Bream, Hourse Mackerel, Red Mullet, Red Sea Bream, Sea Bass, Shrimp, Striped Red Mullet, and Trout，所利用的神經網路函式庫為PyTorch
 
 電腦設備AMD Ryzen™ 5 3600X 
 NVIDIA GeForce RTX 2060
@@ -8,7 +8,10 @@ NVIDIA GeForce RTX 2060
 
 ![image](https://user-images.githubusercontent.com/108604868/188657533-4e6e30f4-a119-4776-aa95-311f0b2fdfd2.png)
 
-
+# Hyper-parameters  
+num_epochs = 30  
+batch_size = 1  
+learning_rate = 0.001  
 
 Test dataset accuracy  
 Accuracy of the network: 79.22222222222223 %  
